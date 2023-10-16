@@ -33,10 +33,8 @@ p{
     
 }
 input{
-    border-bottom: 2px solid blue;
-    border-top: 0px;
-    border-left: 0px;
-    border-right:0px ;
+    border: 2px solid blue;
+    
 }
 select{
     border-radius: 50px;
